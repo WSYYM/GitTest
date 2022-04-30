@@ -1,2 +1,1 @@
-# GitTest
-my first GitTest
+new commit A
